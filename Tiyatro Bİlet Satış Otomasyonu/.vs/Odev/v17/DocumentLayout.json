@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozuk\\source\\repos\\Odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|c:\\users\\bozuk\\source\\repos\\odev\\odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|C:\\Users\\Bozuk\\source\\repos\\Odev\\odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|C:\\Users\\Bozuk\\source\\repos\\Odev\\odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|C:\\Users\\Bozuk\\source\\repos\\Odev\\odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|C:\\Users\\Bozuk\\source\\repos\\Odev\\odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|C:\\Users\\Bozuk\\source\\repos\\Odev\\odev\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F039749A-9C5E-4C85-B79E-EAC9A3AFB68F}|Odev\\Odev.csproj|solutionrelative:odev\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Odev\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.Designer.cs",
+              "RelativeToolTip": "Odev\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:21:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Program.cs",
+              "RelativeDocumentMoniker": "Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Program.cs",
+              "RelativeToolTip": "Odev\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:53:26.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form1.cs [Design]",
+              "RelativeToolTip": "Odev\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:52:21.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form1.cs",
+              "RelativeToolTip": "Odev\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:53:23.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.cs",
+              "RelativeDocumentMoniker": "Odev\\Form2.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.cs",
+              "RelativeToolTip": "Odev\\Form2.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADgv18AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:07:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.cs",
+              "RelativeDocumentMoniker": "Odev\\Form2.cs",
+              "ToolTip": "C:\\Users\\Bozuk\\source\\repos\\Odev\\Odev\\Form2.cs [Design]",
+              "RelativeToolTip": "Odev\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:26:23.28Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
