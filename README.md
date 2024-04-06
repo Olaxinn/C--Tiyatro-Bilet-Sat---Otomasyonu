@@ -1,4 +1,4 @@
-Mysql bağlanıtlarını için kodlar
+Mysql kodları
 *****************************
 ** Create database tiyatro **
 *****************************
